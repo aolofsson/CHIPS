@@ -9,6 +9,9 @@
 * [AIB PHY](https://github.com/lmco/tlrb_aib_phy)
 * [AIB/AXI Bridge](https://github.com/lmco/axi4_aib_bridge)
 
+## University of Michigan
+* [AIB PHY](https://github.com/um-chips)
+
 ## Georgia Tech
 * [Gem5 Simulator](https://github.com/GT-CHIPS/gem5_chips)
 * [Simple Protocol](https://github.com/GT-CHIPS/Interface-Protocol)
